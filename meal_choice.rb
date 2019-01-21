@@ -3,6 +3,6 @@
 def meal_choice(item = "meat")
   puts item
 end  
-meal_choice(steak)
+meal_choice("steak")
 meal_choice
   
