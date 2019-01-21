@@ -3,4 +3,6 @@
 def meal_choice(item = "meat")
   returns meat
 end  
+meal_choice(steak)
+meal_choice
   
